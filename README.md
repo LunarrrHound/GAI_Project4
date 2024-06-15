@@ -22,7 +22,9 @@ We expect this approach will improve the DIP model reconstruction quality.Since 
 You can run main.ipynb directly to reproduce the experiment.
 
 ## Requirements
-
+```
+git clone https://github.com/LunarrrHound/GAI_hw4.git
+```
 ```
 pip install -r requirements.txt
 ```
