@@ -2,7 +2,7 @@
 >   Guiding DIP Early Stopping with DDPM-inspired Supervision
 
 This experiment involves using forward process output of DDPM model (noisy image sequence) as the training target for DIP model.
-We use 10 different trainging stage to train DIP model, starting from the most corrupted image and gradually moving towards the clean target image.
+We use 10 different training stage to train DIP model, starting from the most corrupted image and gradually moving towards the clean target image.
 
 The noise adding process can implement as below
 
