@@ -1,4 +1,4 @@
-# GAI_hw4
+# GAI_Project4
 >   Guiding DIP Early Stopping with DDPM-inspired Supervision
 
 This experiment involves using forward process output of DDPM model (noisy image sequence) as the training target for DIP model.
